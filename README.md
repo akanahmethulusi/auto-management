@@ -28,6 +28,10 @@ Full stack ReactJS with Spring boot project and PostgreSQL
   Display Car Form
   Update Car
   Toast Notification
+
+---------------------------------------------------------------------------------------------------
+-React data under Folder /autosapp
+-the other is spring boot data
 ---------------------------------------------------------------------------------------------------
 -Screenshots pictures
 /screenshots
